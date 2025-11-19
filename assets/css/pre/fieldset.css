@@ -1,0 +1,69 @@
+
+#artDatosPer
+{   
+    width: 100%;
+    margin: 0 auto; 
+    height:auto;
+    text-align:center; 
+    
+}
+
+#artDatosPer ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#artDatosPer ul li
+ {
+    margin: .9em 0 0 0;
+    padding: 0;
+}
+
+#artDatosPer *
+  {
+    line-height: 1em;
+}
+
+    
+
+#artDatosPer h1
+   {
+      margin: 0 0 1.5em 0;
+      padding: 0;
+      text-align: center;
+}
+
+/* Give each fieldset a darker background, dark curved border and plenty of space */
+
+fieldset {
+      padding: 20px 0 10px 0;      
+     
+      border-radius: 10px;
+      -moz-border-radius: 10px;
+      -webkit-border-radius: 10px;
+      width:80%;
+      list-style:none;
+      display:inline-block;          
+      margin: 0 auto;     
+}
+
+/* Give each fieldset legend a nice curvy green box with white text */
+
+legend {
+      color: #fff;
+     
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.9em;
+      font-weight: bold;
+      text-align: center;
+      padding: 5px;
+      margin: 0;
+      width: 9em;
+      border: 2px solid #593131;
+      border-radius: 5px;
+      -moz-border-radius: 5px;
+      -webkit-border-radius: 5px;
+      margin: 0 0 0 10px;
+}
